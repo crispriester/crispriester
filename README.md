@@ -1,8 +1,9 @@
 ## Oii! Eu sou a Cristina Priester :)
 
 - Realizei o curso Jovem Programador, no Senac;
-- Fiz Técnico em Informática integrado ao Ensino Médio no Instituto Federal Catarinense - Campus Blumenau; 
-- Tenho 20 anos.
+- Fiz Técnico em Informática integrado ao Ensino Médio no IFC - Campus Blumenau;
+- Curso Análise e Desenvolvimento de Sistemas;
+- Tenho 21 anos.
 
  <div>
   <a href="https://github.com/crispriester">
